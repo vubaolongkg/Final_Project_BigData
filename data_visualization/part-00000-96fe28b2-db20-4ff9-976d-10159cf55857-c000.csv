@@ -1,0 +1,15 @@
+host,timestamp,tz,method,resource,protocol,responsecode,bytes,ts_year,ts_month,ts_day,ts_hour,ts_minute,ts_sec,ts_dayOfWeek,clientAuthId,userId
+199.72.81.55,1995-07-01T00:00:01.000+07:00,-0400,GET,/history/apollo/,HTTP/1.0,200,6245,1995,7,1,0,0,1,7,199.72.81.55,199.72.81.55
+unicomp6.unicomp.net,1995-07-01T00:00:06.000+07:00,-0400,GET,/shuttle/countdown/,HTTP/1.0,200,3985,1995,7,1,0,0,6,7,unicomp6.unicomp.net,unicomp6.unicomp.net
+199.120.110.21,1995-07-01T00:00:09.000+07:00,-0400,GET,/shuttle/missions/sts-73/mission-sts-73.html,HTTP/1.0,200,4085,1995,7,1,0,0,9,7,199.120.110.21,199.120.110.21
+burger.letters.com,1995-07-01T00:00:11.000+07:00,-0400,GET,/shuttle/countdown/liftoff.html,HTTP/1.0,304,0,1995,7,1,0,0,11,7,burger.letters.com,burger.letters.com
+199.120.110.21,1995-07-01T00:00:11.000+07:00,-0400,GET,/shuttle/missions/sts-73/sts-73-patch-small.gif,HTTP/1.0,200,4179,1995,7,1,0,0,11,7,199.120.110.21,199.120.110.21
+burger.letters.com,1995-07-01T00:00:12.000+07:00,-0400,GET,/images/NASA-logosmall.gif,HTTP/1.0,304,0,1995,7,1,0,0,12,7,burger.letters.com,burger.letters.com
+burger.letters.com,1995-07-01T00:00:12.000+07:00,-0400,GET,/shuttle/countdown/video/livevideo.gif,HTTP/1.0,200,0,1995,7,1,0,0,12,7,burger.letters.com,burger.letters.com
+205.212.115.106,1995-07-01T00:00:12.000+07:00,-0400,GET,/shuttle/countdown/countdown.html,HTTP/1.0,200,3985,1995,7,1,0,0,12,7,205.212.115.106,205.212.115.106
+d104.aa.net,1995-07-01T00:00:13.000+07:00,-0400,GET,/shuttle/countdown/,HTTP/1.0,200,3985,1995,7,1,0,0,13,7,d104.aa.net,d104.aa.net
+129.94.144.152,1995-07-01T00:00:13.000+07:00,-0400,GET,/,HTTP/1.0,200,7074,1995,7,1,0,0,13,7,129.94.144.152,129.94.144.152
+unicomp6.unicomp.net,1995-07-01T00:00:14.000+07:00,-0400,GET,/shuttle/countdown/count.gif,HTTP/1.0,200,40310,1995,7,1,0,0,14,7,unicomp6.unicomp.net,unicomp6.unicomp.net
+unicomp6.unicomp.net,1995-07-01T00:00:14.000+07:00,-0400,GET,/images/NASA-logosmall.gif,HTTP/1.0,200,786,1995,7,1,0,0,14,7,unicomp6.unicomp.net,unicomp6.unicomp.net
+unicomp6.unicomp.net,1995-07-01T00:00:14.000+07:00,-0400,GET,/images/KSC-logosmall.gif,HTTP/1.0,200,1204,1995,7,1,0,0,14,7,unicomp6.unicomp.net,unicomp6.unicomp.net
+d104.aa.net,1995-07-01T00:00:15.000+07:00,-0400,GET,/shuttle/countdown/count.gif,HTTP/1.0,200,40310,1995,7,1,0,0,15,7,d104.aa.net,d104.aa.net
