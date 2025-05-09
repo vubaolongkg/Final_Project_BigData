@@ -1,0 +1,23 @@
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License. See accompanying LICENSE file.
+-->
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+
+<property>
+    <name>fs.defaultFS</name>
+    <value>hdfs://master:9000</value>
+</property>
+<property>
+  <name>hadoop.proxyuser.hadoopuser.groups</name>
+  <value>*</value>
+</property>
+<property>
+  <name>hadoop.proxyuser.hadoopuser.hosts</name>
+  <value>*</value>
+</property>
+
+</configuration>
