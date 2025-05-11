@@ -1,4 +1,4 @@
-﻿-- Đưa dữ liệu từ file csv trên hdfs và lưu trữ vào hive
+-- Đưa dữ liệu từ file csv trên hdfs và lưu trữ vào hive
 CREATE EXTERNAL TABLE nasa_logs (
   host STRING,
   `timestamp` STRING,
