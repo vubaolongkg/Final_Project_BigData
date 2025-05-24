@@ -37,6 +37,8 @@ Phân tích và xử lý dữ liệu log của máy chủ web từ NASA để kh
 - 🔄 **Apache Flume** – Thu thập log và đẩy vào HDFS  
 - ⚡ **Apache Spark** – Phân tích log với tốc độ cao (PySpark)  
 - 🐝 **Apache Hive** – Truy vấn dữ liệu log theo cú pháp SQL  
+
+Video Hướng dẫn cài đặt và thực hiện đồ án: https://drive.google.com/drive/folders/1axwRKlAy8OpuzkOSpQxvw8lu2AYVXZtv
 - 🐍 **Python / PySpark** – Viết script xử lý và phân tích dữ liệu  
 - 📊 **Power BI / Matplotlib** – Trực quan hóa dữ liệu log
 
